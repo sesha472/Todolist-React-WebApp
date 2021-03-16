@@ -1,0 +1,13 @@
+
+
+input{
+    width: 90%;
+    margin: 10px 5%;
+    background-color: rgb(42, 76, 78);
+   font-size: 2rem;
+    outline: none;
+    border-radius: 10px;
+    border:none;
+    color: white;
+
+}

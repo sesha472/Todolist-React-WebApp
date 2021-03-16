@@ -1,0 +1,33 @@
+.Todo{
+    background-color: rgb(182, 202, 202);
+ display: flex;
+ align-items: center;
+ width: 90%;
+margin:10px 5%;
+border-radius: 5px;
+
+}
+
+.Todo p{
+    width: 80%;
+}
+.status{
+    display: flex;
+}
+.Todo .button1{
+    background-color: rgb(28, 230, 213);
+    padding:5px 20px;
+    outline: none;
+    border:none;
+    border-radius: 5px;
+    margin:auto 6px;
+}
+
+.Todo .button2{
+    background-color: brown;
+    outline: none;;
+    border-radius: 4px;
+    border:none;
+    margin-right: 4px;
+
+}
