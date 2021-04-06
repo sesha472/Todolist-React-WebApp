@@ -9,5 +9,6 @@ input{
     border-radius: 10px;
     border:none;
     color: white;
+    box-shadow: 10px 20px 40px black;
 
 }
