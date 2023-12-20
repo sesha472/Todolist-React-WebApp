@@ -1,5 +1,7 @@
 .Todo{
-    background-color: rgb(182, 202, 202);
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    
  display: flex;
  align-items: center;
  width: 90%;
@@ -10,12 +12,14 @@ border-radius: 5px;
 
 .Todo p{
     width: 80%;
+    margin-left: 10px;
+    
 }
 .status{
     display: flex;
 }
 .Todo .button1{
-    background-color: rgb(28, 230, 213);
+    background-image: linear-gradient( 135deg, #79F1A4 10%, #0E5CAD 100%);
     padding:5px 20px;
     outline: none;
     border:none;
@@ -24,7 +28,7 @@ border-radius: 5px;
 }
 
 .Todo .button2{
-    background-color: brown;
+    background-image: linear-gradient( 135deg, #F97794 10%, #623AA2 100%);
     outline: none;;
     border-radius: 4px;
     border:none;
